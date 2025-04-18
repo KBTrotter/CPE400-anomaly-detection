@@ -1,2 +1,4 @@
 # CPE400-anomaly-detection
-CPE 400 final project; evaluating ML models to detect anomalies
+CPE 400 final project: evaluating ML models to detect anomalies
+
+Utilizes the NSL-KDD dataset
